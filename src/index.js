@@ -15,3 +15,7 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+/**
+ * 파일에서 만든 구성 요소와 웹 브라우저 사이의 브리지 역할
+ */
